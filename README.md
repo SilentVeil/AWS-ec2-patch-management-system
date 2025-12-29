@@ -11,7 +11,7 @@ Enterprise-grade automated patch management implementation using AWS Systems Man
 - Achieve 100% patch compliance across all instances
 
 ## 🏗️ Architecture
-![Patch Management Architecture](screenshots/1-fleet-manager.png)
+![Patch Management Architecture](screenshots/patch-architecture.png)
 *Centralized patch orchestration using AWS Systems Manager Patch Manager*
 
 ## 🔧 Technologies & Services
@@ -39,7 +39,7 @@ Enterprise-grade automated patch management implementation using AWS Systems Man
 *Configuring automated scan and install for Linux instances using tag-based targeting (Patch Group: LinuxProd) with AWS default Amazon Linux 2 baseline.*
 
 ### Phase 3: Linux Patch Execution
-![Patch Running Status](screenshots/3-patch-running.png)
+![Patch Running Status](screenshots/3-patch-completed.png)
 *Real-time patch deployment status showing 3 affected instances with progress tracking through AWS-PatchNowAssociation.*
 
 ### Phase 4: Custom Baseline Creation
