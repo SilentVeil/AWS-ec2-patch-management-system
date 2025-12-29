@@ -11,7 +11,7 @@ Enterprise-grade automated patch management implementation using AWS Systems Man
 - Achieve 100% patch compliance across all instances
 
 ## 🏗️ Architecture
-![Patch Management Architecture](screenshots/patch-architecture.png)
+![Patch Management Architecture](screenshots/architecture.png)
 *Centralized patch orchestration using AWS Systems Manager Patch Manager*
 
 ## 🔧 Technologies & Services
